@@ -5,4 +5,4 @@ Objective: Colect all the coins you can and evade or kill all the enemies to rea
 ### Controls:
 - WASD: Move player.
 - Space bar: Jump.
-- Mouse right click: Shoot.
+- Mouse left click: Shoot.
